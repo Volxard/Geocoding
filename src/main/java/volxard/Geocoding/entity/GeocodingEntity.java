@@ -28,7 +28,5 @@ public class GeocodingEntity {
 
     public GeocodingEntity(String address, Object o, Object o1, String response) {
     }
-    public String getResponse() {
-        return response;
-    }
+
 }
